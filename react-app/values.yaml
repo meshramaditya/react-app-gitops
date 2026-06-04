@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: adityameshram/react-demo
   pullPolicy: IfNotPresent
-  tag: "20"
+  tag: "22"
 
 imagePullSecrets: []
 
